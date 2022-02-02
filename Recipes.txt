@@ -10,3 +10,9 @@ veg curry
 aloo
 tomato
 rasam
+
+non veg curry
+chicken 
+mutton
+fish 
+prawns
