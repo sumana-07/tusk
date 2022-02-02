@@ -5,3 +5,8 @@ welcome to main
 kheer
 pizzas
 burger
+
+veg curry
+aloo
+tomato
+rasam
